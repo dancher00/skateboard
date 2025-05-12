@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td><img src="skateboard.png" width="400" alt="3D CAD Model in SolidWorks"/></td>
-      <td><img src="skateboard.png" width="400" alt="RViz"/></td>
+      <td><img src="RViz.png" width="400" alt="RViz"/></td>
     </tr>
   </table>
 </div>
