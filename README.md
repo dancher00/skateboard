@@ -1,6 +1,6 @@
-## 
-6-DoF Skateboard Robot
+## 6-DoF Skateboard Robot
 
+if you need real truck's bushings behaviour please use `<springStiffness>` tag in `.urdf` or plagin https://github.com/dancher00/ros2_gazebo_joint_torsional_spring_plugin for ROS2, https://github.com/aminsung/gazebo_joint_torsional_spring_plugin for ROS if you use Gazebo 
 
 <div align="center">
   <table>
