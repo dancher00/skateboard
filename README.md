@@ -1,3 +1,6 @@
+## 
+
+6-DoF Skateboard Robot
 
 
 <div align="center">
@@ -7,9 +10,8 @@
       <td><b>Generated 2D Map</b></td>
     </tr>
     <tr>
-      <td><img src="skateboard.png" width="400" alt="3D World Example"/></td>
-      <td><img src="skateboard.png" width="400" alt="Generated PGM Map"/></td>
-      
+      <td><img src="skateboard.png" width="400" alt="3D CAD Model in SolidWorks"/></td>
+      <td><img src="skateboard.png" width="400" alt="RViz joint"/></td>
     </tr>
   </table>
 </div>
